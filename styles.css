@@ -1,0 +1,25 @@
+h2 {
+    font-size: 150pt;
+    font-weight: bold;
+
+}
+
+.links:link {
+    color: brown;
+}
+
+.links:visited {
+    color: blue;
+}
+
+.links:hover {
+    color: red;
+}
+
+.links {
+    font-size: 20pt;
+}
+
+p {
+    font-size: 16pt;
+}
